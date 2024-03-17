@@ -1,0 +1,26 @@
+.text-mutedd{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin: 0;
+}
+
+.imgg{
+    width: 190px;
+}
+
+.pp {
+    width: 250px;
+    margin-top: 10px;
+    font-family: Inconsolata;
+}
+
+.div{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 250px;
+}
+
+.df{
+    flex-wrap: wrap;
+}

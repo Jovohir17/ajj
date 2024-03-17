@@ -1,0 +1,120 @@
+.sale__menu__cards {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+.div {
+  margin-top: 40px;
+}
+.div img {
+  height: 200px;
+  width: 184px;
+  padding: 18px 0 16px 19px;
+  margin-left: 5px;
+}
+.div .text-mutedd {
+  padding-left: 15px;
+  color: #333;
+  font-family: "EucluidCircularA-SemiBold";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 129.962%;
+  letter-spacing: 0.1px;
+}
+.div .pp {
+  width: 214px;
+  padding-left: 15px;
+  margin-top: -10px;
+  color: #3b3f4e;
+  font-family: "EucluidCircularA-Regular";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+  letter-spacing: -0.28px;
+}
+.div .imgg {
+  margin-left: -5px;
+  width: 100px;
+  margin-top: -105px;
+}
+.div .basket {
+  margin-left: -81px;
+  margin-top: 30px;
+  position: absolute;
+  width: 99px;
+  padding: 12px 15px;
+  border: 0;
+  border-radius: 5px;
+  background: #4f71dc;
+  color: #fff;
+  text-align: center;
+  font-family: "EucluidCircularA-Medium";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 129.962%;
+  transition: all 0.3s;
+}
+.div .basket:hover {
+  background: transparent;
+  color: #4f71dc;
+  transition: all 0.3s;
+}
+
+.offcanvas-end {
+  background: rgb(249, 249, 249) !important;
+}
+
+.offcanvas-body .box {
+  margin-top: 20px;
+  width: 450px;
+  height: 200px;
+  border-radius: 26px;
+  background: #ffffff;
+}
+.offcanvas-body .box .asror {
+  width: 150px;
+  margin-left: 20px;
+}
+.offcanvas-body .box .asrors {
+  margin-top: 80px;
+  margin-left: 50px;
+}
+.offcanvas-body .box p {
+  color: #505050;
+  font-size: 20px;
+  margin-top: -130px;
+  margin-left: 190px;
+}
+.offcanvas-body .box .basket {
+  margin-left: 281px;
+  margin-top: 70px;
+  position: absolute;
+  width: 99px;
+  padding: 12px 15px;
+  border: 0;
+  border-radius: 5px;
+  background: #4f71dc;
+  color: #fff;
+  text-align: center;
+  font-family: "EucluidCircularA-Medium";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 129.962%;
+  transition: all 0.3s;
+}
+.offcanvas-body .box .basket:hover {
+  background: transparent;
+  color: #4f71dc;
+  transition: all 0.3s;
+}
+
+.h {
+  color: #333;
+  text-decoration: none;
+}/*# sourceMappingURL=Heart.css.map */
